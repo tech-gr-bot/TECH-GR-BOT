@@ -113,7 +113,7 @@ global.pimg = [imag1, imag2, imag3]
 
 
 // Randome
-global.GR-BOTImg = [imagen1, imagen2]
+global.GRBOTImg = [imagen1, imagen2]
 //💌------------------------------------------💌
 
 
@@ -132,13 +132,13 @@ global.botname = process.env.BOT_NAME
 global.TECHGRBOT = '🛡️TECH-GR-BOT🛡️'
 global.packname = process.env.PACK_NAME
 global.author = 'TECH-GR-BOT♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VadE4Ay9mrGm2rCfvD2h'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
-global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
-global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
-global.thumb = fs.readFileSync('./lib/source/Prince.png')
+global.TECHGRig = 'https://www.instagram.com' 
+global.TECHGRgp = 'https://whatsapp.com/channel/0029VadE4Ay9mrGm2rCfvD2h'
+global.menuvid = 'https://imgur.com/a/JeddMGL.mp4'
+global.TECHGRsc = 'https://github.com/tech-gr-bot/TECH-GR-BOT' 
+global.TECHGRyt = 'https://youtube.com/@techgrofficia?si=cqzdqiE16TcjRoe5'
+global.TECHGRlog = 'https://imgur.com/a/FlGcX1a.jpeg'
+global.thumb = fs.readFileSync('./lib/source/TECH-GR-BOT.png')
 //💌------------------------------------------💌
 
 
@@ -161,7 +161,7 @@ dotenv.config()
 
 const ownervb = process.env.OWNER_NUMBER || ""; // Environment variable se OWNER_NUMBER lete hain
 const ownerlist = ownervb.split(',');
-global.owner = [["639129985130", "DEVELOPER🌹", true]];
+global.owner = [["923228979788", "DEVELOPER🌹", true]];
 for (let i = 0; i < ownerlist.length; i += 2) {
     const owner = [
         ownerlist[i],            // Owner number
