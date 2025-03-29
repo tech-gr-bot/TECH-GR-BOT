@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:FF1493&height=180&section=header&text=DASTAGEER'S%20PRINCE%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=TECH%20GR%20BOT&section=footer&reversal=true&textBg=false&fontAlign=50&fontAlignY=50&animation=blink)100%"/>
 
 <div align="center" style="margin: 30px; font-family: 'Segoe UI', sans-serif;">
     <a href="">
@@ -35,7 +35,7 @@
   <a href="https://gd-sdeploy.vercel.app/">
     <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </a>
-<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/PRINCEMD&branch=main&name=princegds&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]=PRINCE-MD&env[OWNER_NUMBER]=6281220527432%3B%E2%9D%A3%EF%B8%8FPRINCE+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=all&env[DATABASE_URL]=&env[ANTI_LINK]=true&env[AutoReaction]=false&env[STATUSVIEW]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+Prince+bot&env[REJECTSCALLS]=false&env[CALLMSG]=For+now+calls+are+restricted+by+my+owner&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[AUTO_APPROVE_USERS]=92%2C880&env[PACK_NAME]=Prince%F0%9F%92%96&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_&env[STATUSVIEW]=true&env[StatusEmojies]=♥️%2C🤗%2C❤️%2C💞%2C❣️%2C💙%2C💛%2C🤍%2C💚%2C😍%2C🥰%2C💝%2C💖%2C💗%2C💓%2C💞%2C💕%2C❣️%2C💘%2C💟%2C🖤%2C🤎%2C💜%2C💫%2C🌸">
+<a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/DASTAGHIR/GRMD&branch=main&name=GRgds&builder=dockerfile&env[SESSION_ID]=&env[BOT_NAME]=TECHGR-MD&env[OWNER_NUMBER]=6281220527432%3B%E2%9D%A3%EF%B8%8FPRINCE+THE+DEVELOPER&env[MODE]=public&env[PREFIX]=&env[antidelete]=all&env[DATABASE_URL]=&env[ANTI_LINK]=true&env[AutoReaction]=false&env[STATUSVIEW]=true&env[STATUS_MSG]=Your+Status+has+been+seen+by+GR+bot&env[REJECTSCALLS]=false&env[CALLMSG]=For+now+calls+are+restricted+by+my+owner&env[ANTIFAKE_USERS]=1%2C212%2C63%2C44&env[AUTO_APPROVE_USERS]=92%2C880&env[PACK_NAME]=GR%F0%9F%92%96&env[DL_MSG]=_📥DOWNLOADED+SUCCESSFULLY✅_&env[STATUSVIEW]=true&env[StatusEmojies]=♥️%2C🤗%2C❤️%2C💞%2C❣️%2C💙%2C💛%2C🤍%2C💚%2C😍%2C🥰%2C💝%2C💖%2C💗%2C💓%2C💞%2C💕%2C❣️%2C💘%2C💟%2C🖤%2C🤎%2C💜%2C💫%2C🌸">
     <img src="https://img.shields.io/badge/KOYEB-000000?style=for-the-badge&logo=koyeb" style="vertical-align: middle; margin-right: 10px;">
 </a>
 </div>
@@ -66,7 +66,7 @@
 
 ## 🌐 **SUPPORT**  
 <p align="center">
-  <a href="https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP">
+  <a href="https://whatsapp.com/channel/0029VadE4Ay9mrGm2rCfvD2h">
     <img src="https://img.shields.io/badge/OFFICIAL_GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
