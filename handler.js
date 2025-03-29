@@ -708,7 +708,7 @@ mentionedJid:[user],
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
 "thumbnail": apii.data, 
-"title": 'Prince♥️',
+"title": 'TECH-GR-BOT♥️',
 "containsAutoReply": true,
 "mediaType": 1, 
 sourceUrl: 'https://github.com/DASTAGHIR/tech-gr-bot' }}}, { quoted: fkontak2 })
